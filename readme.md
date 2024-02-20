@@ -1,5 +1,4 @@
 <h1>See the weather wherever you are!</h1>
- <link href="https://ma7hz.github.io/weather_app/">
 <br>
 <img src=https://github.com/ma7hz/weather_app/blob/main/assets/weather%20app%20photo.PNG>
 <br>
@@ -11,3 +10,5 @@
 <h2>Linguagens usadas/Used Languages:</h2>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<a href="https://ma7hz.github.io/weather_app/">Projeto/Project</a>
