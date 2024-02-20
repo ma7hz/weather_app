@@ -1,4 +1,4 @@
-<h1>See the weather where you are!</h1>
+<h1>See the weather wherever you are!</h1>
 <br>
 <img src=https://github.com/ma7hz/weather_app/blob/main/assets/weather%20app%20photo.PNG>
 <br>
