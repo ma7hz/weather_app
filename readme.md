@@ -7,7 +7,7 @@
 <p>Project made to simulate the temperature of the location in which the user chose. Made via tutorial by <a href="https://www.youtube.com/watch?v=qxzqEuAOYZ4">Developer Rodolfo Mori</a>. My "first" project in which I apply Javascript (there are some unreleleased in WIP!), but which served to provide a good understanding of the language's functions.</p>
 <br>
 -----------------------------------------------------------------
-Linguagens usadas/Used Languages:
+<h2>Linguagens usadas/Used Languages:</h2>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
