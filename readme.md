@@ -1,4 +1,4 @@
-<a href="https://ma7hz.github.io/weather_app/">See the weather wherever you are!</a>
+<h1 href="https://ma7hz.github.io/weather_app/">See the weather wherever you are!</h1>
 <br>
 <img src=https://github.com/ma7hz/weather_app/blob/main/assets/weather%20app%20photo.PNG>
 <br>
