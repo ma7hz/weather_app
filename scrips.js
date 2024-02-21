@@ -28,4 +28,3 @@ function cliqueiNoBotao() {
 
 
 
-// ESTUDAR DEPOIS PRA NAO FICAR LERDAO: AWAIT, ASYNC, FETCH
